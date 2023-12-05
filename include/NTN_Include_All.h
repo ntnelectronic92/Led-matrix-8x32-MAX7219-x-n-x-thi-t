@@ -3,4 +3,6 @@
 #include <Arduino.h>
 #include "NTN_App.h"
 #include "NTN_Matrix_Max7219.h"
+#include "NTN_User_Data.h"
+#include "NTN_Time.h"
 #endif
